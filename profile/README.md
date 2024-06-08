@@ -1,4 +1,4 @@
-[![Header](../assets/index.png "Header")](https://github.com/skin-scan)
+[![Header](https://github.com/skin-scan/.github/blob/main/assets/index.png?raw=true "Header")](https://github.com/skin-scan)
 
 <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hello there!</h2>
 Nice to e-meet you! We bring you, SkinScan. An innovative AI-powered mobile application to provide preliminary diagnoses of skin diseases. We aims to address this issue by providing users with a convenient and efficient tool for early detection and assessment.
